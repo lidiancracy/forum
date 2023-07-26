@@ -8,3 +8,16 @@
 2023-07-26 20:08:40,783 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:218] Shutting down ExecutorService 'applicationTaskExecutor'
 2023-07-26 20:08:40,785 INFO [SpringContextShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
 2023-07-26 20:08:40,794 INFO [SpringContextShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2023-07-26 20:31:28,305 INFO [main] t.t.c.mailtest [StartupInfoLogger.java:55] Starting mailtest using Java 11.0.12 on LAPTOP-VTI99V7I with PID 24124 (started by 83799 in F:\Springboot自学\面试i项目\forum)
+2023-07-26 20:31:28,309 INFO [main] t.t.c.mailtest [SpringApplication.java:660] No active profile set, falling back to default profiles: default
+2023-07-26 20:31:30,072 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2023-07-26 20:31:30,202 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-07-26 20:31:30,577 INFO [main] t.t.c.mailtest [StartupInfoLogger.java:61] Started mailtest in 2.928 seconds (JVM running for 4.191)
+2023-07-26 20:31:33,069 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:218] Shutting down ExecutorService 'applicationTaskExecutor'
+2023-07-26 20:57:35,035 INFO [main] t.t.c.u.EmailSenderTest [StartupInfoLogger.java:55] Starting EmailSenderTest using Java 11.0.12 on LAPTOP-VTI99V7I with PID 21532 (started by 83799 in F:\Springboot自学\面试i项目\forum)
+2023-07-26 20:57:35,037 INFO [main] t.t.c.u.EmailSenderTest [SpringApplication.java:660] No active profile set, falling back to default profiles: default
+2023-07-26 20:57:36,721 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2023-07-26 20:57:36,886 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-07-26 20:57:37,340 INFO [main] t.t.c.u.EmailSenderTest [StartupInfoLogger.java:61] Started EmailSenderTest in 2.862 seconds (JVM running for 3.849)
+2023-07-26 20:57:39,904 INFO [main] t.t.c.u.emailutil [emailutil.java:47] A HTML email has been sent from 837997288@qq.com to 837997288@qq.com.
+2023-07-26 20:57:39,922 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:218] Shutting down ExecutorService 'applicationTaskExecutor'
