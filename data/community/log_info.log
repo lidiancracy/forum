@@ -1,0 +1,10 @@
+2023-07-26 20:08:38,015 INFO [main] t.t.c.TestMapper [StartupInfoLogger.java:55] Starting TestMapper using Java 11.0.12 on LAPTOP-VTI99V7I with PID 26260 (started by 83799 in F:\Springboot自学\面试i项目\forum)
+2023-07-26 20:08:38,019 INFO [main] t.t.c.TestMapper [SpringApplication.java:660] No active profile set, falling back to default profiles: default
+2023-07-26 20:08:39,646 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2023-07-26 20:08:39,752 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-07-26 20:08:40,109 INFO [main] t.t.c.TestMapper [StartupInfoLogger.java:61] Started TestMapper in 2.605 seconds (JVM running for 3.44)
+2023-07-26 20:08:40,488 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2023-07-26 20:08:40,646 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2023-07-26 20:08:40,783 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:218] Shutting down ExecutorService 'applicationTaskExecutor'
+2023-07-26 20:08:40,785 INFO [SpringContextShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2023-07-26 20:08:40,794 INFO [SpringContextShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
